@@ -1,0 +1,14 @@
+{
+  "ignoreErrors" : false,
+  "ignoreWarnings" : false,
+  "overrideable" : true,
+  "rules" : {
+    "ethical" : true,
+    "restrictToDomain" : true,
+    "fuzzyDomains" : false,
+    "recursionLayers" : 5,
+    "assetType" : "text",
+    "website" : "http://www.example.com",
+    "useScriptLinks" : true
+  }
+}
